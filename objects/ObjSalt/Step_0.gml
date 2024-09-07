@@ -1,4 +1,4 @@
-/// @description Salt Physics
+ /// @description Salt Physics
 if( !place_meeting( x, y+4, ObjSalt ) && !place_meeting( x, y+4, ObjWall ))
 {
 	y += 4;

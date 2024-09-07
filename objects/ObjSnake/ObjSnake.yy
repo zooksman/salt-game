@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"ObjSalt",
+  "%Name":"ObjSnake",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"ObjSalt",
+  "name":"ObjSnake",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"SprSalt",
-    "path":"sprites/SprSalt/SprSalt.yy",
+    "name":"Snake",
+    "path":"sprites/Snake/Snake.yy",
   },
   "spriteMaskId":null,
   "visible":true,
